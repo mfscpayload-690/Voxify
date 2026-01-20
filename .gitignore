@@ -23,3 +23,6 @@ npm-debug.log*
 # Environment files
 .env
 .env.local
+
+# Config files (use config.example.js as template)
+config.js
